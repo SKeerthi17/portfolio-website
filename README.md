@@ -16,7 +16,7 @@ This project automates the deployment of a **portfolio website** using **CI/CD p
 |--------------|----------------|
 | **Frontend** | React.js (or HTML/CSS/JS) |
 | **Backend**  | Node.js & Express.js |
-| **Database** | MongoDB (if applicable) |
+| **Database** | MongoDB |
 | **CI/CD**    | GitHub Actions & Jenkins |
 | **Containerization** | Docker & Kubernetes |
 | **Cloud Hosting** | IBM Cloud Kubernetes |
